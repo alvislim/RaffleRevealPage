@@ -1,0 +1,115 @@
+.raffleWrapper {
+    position: absolute;
+    width: 340px;
+    height: 850px;
+    left: 59px;
+    top: 120px;
+    
+    background: #FFFFFF;
+    /* Shadow Card Big */
+    
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
+}
+
+.sideBarHeaderWrapper {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.getMoreTicker {
+    width: 159px;
+    height: 15px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 56px;
+    /* or 280% */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #2D2D2D;
+
+}
+
+.sideBarButton {
+    width: 94px;
+    height: 42px;
+    background: #550DED;
+    border: 1px solid #550DED;
+    box-sizing: border-box;
+    border-radius: 4px;
+    color: white;
+    margin-left: 1rem;
+}
+
+.raffleCardWrapper {
+    width: 149.41px;
+    height: 228px;
+    background-color: black;
+    color:white;
+    margin: 0 5rem;
+}
+
+.dashboardWrapper {
+    position: absolute;
+    width: 959px;
+    height: 850px;
+    left: 439px;
+    top: 120px;
+
+    background: #FFFFFF;
+    /* Shadow Card Big */
+
+    box-shadow: 0px 6px 15px -4px rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
+
+    display: flex;
+    justify-content: center;
+}
+
+.dashboardHeaderWrapper {
+    width: 367px;
+    height: 56px; 
+}
+
+.collectorsEvent {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 30px;
+    /* or 94% */
+    
+
+    text-transform: capitalize;
+    margin-left: 4rem;
+    color: #2D2D2D;
+}
+
+.dashboardP {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+
+    
+    color: #2D2D2D;
+}
+
+.DragToContainer {
+    position: absolute;
+    width: 781px;
+    height: 448px;
+    left: 528px;
+    top: 262px;
+    
+    border: 2px dashed #EAEAFF;
+    box-sizing: border-box;
+    border-radius: 12px;
+}
